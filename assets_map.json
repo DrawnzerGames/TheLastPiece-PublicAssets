@@ -1,0 +1,61 @@
+{
+    "release_version": "1.0.0",
+    "hero": [
+        {
+            "id": 1,
+            "name": "",
+            "icon_url": "",
+            "thumbnail_url": "",
+            "skins": [
+                {
+                    "id": 1,
+                    "name": "",
+                    "icon_url": "",
+                    "thumbnail_url": ""
+                }
+            ]
+        }
+    ],
+    "default_avatar" : [
+        {
+            "id" : 1,
+            "thumbnail" : "default1"
+        },
+        {
+            "id" : 2,
+            "thumbnail" : "default2"
+        },
+        {
+            "id" : 3,
+            "thumbnail" : "default3"
+        },
+        {
+            "id" : 4,
+            "thumbnail" : "default4"
+        },
+        {
+            "id" : 5,
+            "thumbnail" : "default5"
+        },
+        {
+            "id" : 6,
+            "thumbnail" : "default6"
+        },
+        {
+            "id" : 7,
+            "thumbnail" : "default7"
+        },
+        {
+            "id" : 8,
+            "thumbnail" : "default8"
+        },
+        {
+            "id" : 9,
+            "thumbnail" : "default9"
+        },
+        {
+            "id" : 10,
+            "thumbnail" : "default10"
+        }
+    ]
+}
